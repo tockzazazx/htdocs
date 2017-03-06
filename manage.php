@@ -40,4 +40,5 @@ if(isset($_POST['delete'])){
         header("location:admin_page1.php");
     }
 }echo "123555";
+echo "git test";
 ?>
