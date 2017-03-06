@@ -39,5 +39,5 @@ if(isset($_POST['delete'])){
     if($chk){
         header("location:admin_page1.php");
     }
-}
+}echo "123555";
 ?>
